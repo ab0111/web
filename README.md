@@ -28,8 +28,6 @@ responsive
 
 ## Je website
 
-https://ab0111.github.io/web/
-
 <details open>
   <summary>uitwerken voor kick-off werkgroep</summary>
 
@@ -39,13 +37,13 @@ https://surf-spirit.info/en
 
 #### Screenshot(s) van de eerste pagina (small screen):
 
-homepagina  
- <img src="readme-images/" width="375px" alt="omschrijving van de pagina">
+hier de naam van de pagina  
+ <img src="readme-images/screenshot1.png" width="375px" alt="omschrijving van de pagina">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 
-surfpagina 
- <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+hier de naam van de pagina  
+ <img src="readme-images/screenshot2-surfpagina.png" width="375px" alt="omschrijving van de pagina">
 
 </details>
 
