@@ -36,9 +36,8 @@ responsive
 https://surf-spirit.info/en
 
 #### Screenshot(s) van de eerste pagina (small screen):
+![f78ed735-820a-4121-9866-479abb3dd6c7](https://user-images.githubusercontent.com/118175398/203652056-3daa045e-d1c9-4d51-9c8b-a86d2df709d6.png)
 
-homepagina
-<img src="readme-images/screenshot1.png" width="375px" alt="omschrijving van de pagina">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 
