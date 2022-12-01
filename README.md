@@ -9,7 +9,7 @@ Nb. Door _open_ toe te voegen aan een _details_ element kun je deze standaard op
 
 ## Jij
 
-<details open>
+<details>
   <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Auteur:
@@ -142,23 +142,24 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 ## Voortgang 2 (week 3)
 
-<details>
+<details open>
   <summary>uitwerken voor 2e voortgang</summary>
 
 ### Stand van zaken
 
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Het maken van grids ging goed alleen vond ik het lastig om een hamburgermenu aan te maken.
 
 ### Agenda voor meeting
 
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
-| -------------- | ------------------ | ------------ | ---------------- |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
+| Agnes          | sohil              | Koulsoum         | 
+| -------------- | ------------------ | ------------     | 
+| Hamburgermenu  |  Header moet nog   | Header responsive| 
+| Logo naar links|                    | maken            |
+| lineheight   
+| gradient       |                    |                  |
+ 
 ### Verslag van meeting
 
 hier na afloop snel de uitkomsten van de meeting vastleggen
