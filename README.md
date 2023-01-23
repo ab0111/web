@@ -115,10 +115,10 @@ In het begin heb ik voor een website gekozen die te moeilijk was om te coderen w
 
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
+| Agnes          | student 2          | student 3    | student 4        |
 | -------------- | ------------------ | ------------ | ---------------- |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+| html en css    | en dit             | en ik dit    | en dan ik dat    |
+| Responsiveness | dit als er tijd is | nog een punt | dit wil ik zeker |
 | ...            | ...                | ...          | ...              |
 
 ### Verslag van meeting met Agnes.
@@ -133,10 +133,10 @@ To do's:
 
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- Responsiveness van de website
+- grid besproken
+- Footer besproken
+
 
 </details>
 
@@ -147,7 +147,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 ### Stand van zaken
 
-Het maken van grids ging goed alleen vond ik het lastig om een hamburgermenu aan te maken.
+Het maken van grids ging goed, alleen vond ik het lastig om een hamburgermenu aan te maken.
 
 ### Agenda voor meeting
 
@@ -164,9 +164,8 @@ samen met je groepje opstellen
 
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
+- Hamburgermenu aagepast
+- Header aangepast
 - ...
 
 </details>
@@ -229,10 +228,9 @@ samen met je groepje opstellen
 
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- Grid uitgewerkt 
+- Favicon toegevoegd
+- 
 
 </details>
 
